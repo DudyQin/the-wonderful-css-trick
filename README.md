@@ -1,2 +1,2 @@
 # the-wonderful-css-trick
-一些有趣的CSS奇淫技巧
+一些有趣的CSS技巧
