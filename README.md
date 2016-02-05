@@ -3,4 +3,4 @@
 
 请移步issues
 
-更多css-trick可在[http://codepen.io/Dudy](http://codepen.io/Dudy)查看
+更多css-trick可在[http://codepen.io/collection/ANQqpD/](http://codepen.io/collection/ANQqpD/)或[http://codepen.io/Dudy](http://codepen.io/Dudy)查看
